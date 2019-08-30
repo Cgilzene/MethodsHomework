@@ -44,7 +44,7 @@ namespace MethodsHW
             return multSum;
         }
 
-        class cat
+        class cat // cat class
         {
             public string Name
             {
