@@ -1,0 +1,7 @@
+C:\Users\Canute Gilzene\Documents\Engineering_40\HomeWork\MethodsHomeWork\MethodsHW\MethodsHW\bin\Debug\MethodsHW.exe.config
+C:\Users\Canute Gilzene\Documents\Engineering_40\HomeWork\MethodsHomeWork\MethodsHW\MethodsHW\bin\Debug\MethodsHW.exe
+C:\Users\Canute Gilzene\Documents\Engineering_40\HomeWork\MethodsHomeWork\MethodsHW\MethodsHW\bin\Debug\MethodsHW.pdb
+C:\Users\Canute Gilzene\Documents\Engineering_40\HomeWork\MethodsHomeWork\MethodsHW\MethodsHW\obj\Debug\MethodsHW.csprojAssemblyReference.cache
+C:\Users\Canute Gilzene\Documents\Engineering_40\HomeWork\MethodsHomeWork\MethodsHW\MethodsHW\obj\Debug\MethodsHW.csproj.CoreCompileInputs.cache
+C:\Users\Canute Gilzene\Documents\Engineering_40\HomeWork\MethodsHomeWork\MethodsHW\MethodsHW\obj\Debug\MethodsHW.exe
+C:\Users\Canute Gilzene\Documents\Engineering_40\HomeWork\MethodsHomeWork\MethodsHW\MethodsHW\obj\Debug\MethodsHW.pdb
